@@ -8,7 +8,7 @@ if (global.pontos_p1 >= global.max_pontos || global.pontos_p2 >= global.max_pont
 
 
 //restart no jogo
-if (keyboard_check_pressed(ord("R")))
-{
-    game_restart();
-}
+//if (keyboard_check_pressed(ord("R")))
+//{
+    //game_restart();
+//}
